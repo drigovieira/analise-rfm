@@ -44,5 +44,5 @@ pip install -r requirements.txt
 
 ✉️ Contato
 Seu Nome - rodrigopiresvieira20@gmail.com
-
+tel - (12) 978122934
 LinkedIn: https://www.linkedin.com/in/rodrigoapvieira/
