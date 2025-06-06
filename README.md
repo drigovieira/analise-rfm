@@ -43,6 +43,6 @@ pip install -r requirements.txt
 ```
 
 ✉️ Contato
-Seu Nome - rodrigopiresvieira20@
+Seu Nome - rodrigopiresvieira20@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/rodrigoapvieira/
