@@ -1,0 +1,10 @@
+
+# Case: Desafio Final
+
+# Instruções para criação do ambiente virtual
+
+```bash
+conda create -n desafio_final python=3.8
+conda activate desafio_final
+pip install -r requirements.txt
+```
